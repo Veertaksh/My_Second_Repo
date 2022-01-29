@@ -1,0 +1,1 @@
+Performing a branch stratergy by creating a new branch --->Adding a file and commit and then comparing and merging the branch.
